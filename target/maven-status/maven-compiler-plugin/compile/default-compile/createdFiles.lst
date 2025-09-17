@@ -1,10 +1,14 @@
+gui\LivroTableModel.class
+livro\Livro.class
 dao\DAO.class
 mysql\MysqlSingleton.class
 usuario\Usuario.class
 gui\Cadastrar$2.class
 gui\Cadastrar.class
+gui\TelaPrincipal.class
 gui\Login$1.class
 gui\Login$2.class
+livro\gerenciar\LivroDAO.class
 usuario\hash\Hash.class
 gui\Cadastrar$1.class
 dao\GenericDAO.class
